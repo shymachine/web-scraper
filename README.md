@@ -10,7 +10,7 @@ System requirement
 
 To run the program use the following command
 ------------------------------------------------
-python main.py -R <receiver's email address> -N <server name> -S <sender's gmail address> -P <app generated password>
+python main.py -R <receiver's email address> -N <Server's Name> -S <sender's gmail address> -P <app generated password>
 
 - R - receiver's email address(any domain)
 - N - database server name
